@@ -1,7 +1,6 @@
-.dockerignore
-Dockerfile
+*_pb2.py
+
 .idea
-docker-compose.yml
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
