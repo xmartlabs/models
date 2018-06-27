@@ -1,0 +1,4 @@
+jupyter
+lxml
+matplotlib
+pillow
